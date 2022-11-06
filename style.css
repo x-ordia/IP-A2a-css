@@ -77,13 +77,13 @@ header>img{
             border-radius: 0px;
             width: 1200px;}
 }
-#education {
+fieldset {
 align-items: center;
 justify-content: center;
 text-align: center;
 background-image: linear-gradient(to left,rgba(225, 77, 255, 0.65),rgba(255, 55, 131, 0.65));
 }
-#education:hover {
+fieldset:hover {
     align-items: center;
     justify-content: center;
     text-align: center;
